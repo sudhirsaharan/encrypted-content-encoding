@@ -14,7 +14,7 @@
  *    This version is selected by default, unless you specify a |padSize| of 1.
  */
 
-var crypto = require('crypto');
+var crypto = require('cryptos');
 var base64 = require('urlsafe-base64');
 
 var AES_GCM = 'aes-128-gcm';
